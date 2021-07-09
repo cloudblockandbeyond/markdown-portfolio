@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Certifications
+
+1. *Microsoft Azure Fundamentals* **AZ-900**
+2. React Nanodegree from **Udacity**
+3. Microsoft Azure Developer Associate **AZ-204**
